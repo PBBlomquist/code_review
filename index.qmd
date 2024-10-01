@@ -1,0 +1,55 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r, echo=F}
+pacman::p_load(
+  rio,
+  here,
+  janitor,
+  ISOcodes,
+  tidyverse,
+  googlesheets4,
+  reactable
+)
+```
+
+## Welcome to our Code Review Service!
+
+If you need your R code reviewed by an epidemiology and R expert, this is the place to be. 
+
+**Book here**
+
+```{=html}
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2FecIA2op-VYBD4zN2RltSfejAqezPfRRUSz3O59QYHbd2Apva_rqPijGzzXHPVk5Mti1BK1Gb?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+```
+
+
+## About us
+
+[**Applied Epi**](https://www.appliedepi.org/) is a nonprofit organisation and grassroots movement of frontline epidemiologists from around the world. Your encouragement and feedback is most welcome:
+
+-   Visit our [**website**](https://www.appliedepi.org/) and [**join our contact list**](https://docs.google.com/forms/d/e/1FAIpQLSdtk7Mg32lYQ3ucbIM-kIwIRxgRwDfG5TJHsVAbFjQ1i6fwiw/viewform?usp=send_form)
+
+-   **contact\@appliedepi.org**, tweet [**\@appliedepi**](https://x.com/appliedepi), or [**LinkedIn**](https://www.linkedin.com/company/appliedepi/?originalSubdomain=it)
+
+-   Submit issues to our **Github repository**

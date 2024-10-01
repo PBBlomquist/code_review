@@ -1,0 +1,38 @@
+project:
+  type: website
+  render:
+    - index.qmd      
+
+website:
+  title: "Applied Epi Code Review Service"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: "https://appliedepi.org/"
+        text: About Applied Epi
+    tools:
+      - icon: twitter
+        href: "https://twitter.com/appliedepi"
+      - icon: linkedin
+        href: "https://www.linkedin.com/company/appliedepi/"
+    background: primary
+  sidebar:
+    logo: "images/logos/Applied_Epi_logo.png"  
+    
+format:
+  html: 
+    theme: 
+      light: sandstone
+      dark: [darkly, theme-dark.scss]
+    toc: true
+    toc-location: left 
+    number-sections: false
+    number-depth: 0
+    grid: 
+      body-width: 1200px
+      margin-width: 40px
+    # css:
+    #  - webex.css
+    # include-after-body:
+    #  - webex.js
