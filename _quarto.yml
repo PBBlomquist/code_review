@@ -4,7 +4,7 @@ project:
     - index.qmd      
 
 website:
-  title: "Applied Epi Code Review Service"
+  title: "Applied Epi Support Desk Service"
   navbar:
     left:
       - href: index.qmd
