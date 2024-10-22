@@ -16,16 +16,23 @@ pacman::p_load(
 )
 ```
 
-## Welcome to our Code Review Service!
+## Welcome to our Support Desk service!
 
 If you need your R code reviewed by an epidemiology and R expert, this is the place to be. 
 
-**Book here**
+For Intro to R course participants: You are entitled to 1.5 hours in total of support desk time, which you can split up over multiple calls or share with others. We will monitor the time actually spent on a call, not the time booked.
+
+*Instructions:*
+
+1) Select a day and time that works for you.
+2) Fill in the necessary information so we know who you are and what you would like help with.
+3) You will receive a meeting invitation to your email address.
+4) - OPTIONAL. Forward the invitation to other people that you would like to join you.
 
 ```{=html}
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/support-desk-test?hide_landing_page_details=1&background_color=d5e6f9" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/support-desk-test/code-review-any-available-instructor?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 ```
