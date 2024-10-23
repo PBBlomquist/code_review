@@ -18,9 +18,9 @@ pacman::p_load(
 
 ## Welcome to our Support Desk service!
 
-If you need your R code reviewed by an epidemiology and R expert, this is the place to be. 
+If you need to talk through an R problem or have your code reviewed by an epidemiology and R expert, this is the place to be. 
 
-For Intro to R course participants: You are entitled to 1.5 hours of support, divided into three 30-minute calls. These calls can be one-on-one with the technician, or you can invite team members to join.
+For Intro to R course participants: You are entitled to 1.5 hours of support, divided into three 30-minute calls. These calls can be one-on-one with the technician, or you can invite team members from the R course to join. Time is deducted from the booking student, so attending calls in groups means you can get more time.
 
 ## Instructions
 
@@ -29,9 +29,9 @@ For Intro to R course participants: You are entitled to 1.5 hours of support, di
 2) Click 'next' and then:
     * Enter your name, email address, and a brief description of the support you need.
     * Include the email addresses of any team or group members who should join the call.
-3) A meeting invitation will be sent to the provided email address(es).
+3) A Google Meets calendar invitation will be sent to the provided email address(es).
 
-You can modify or cancel your booking as long as it’s done at least 24 hours in advance. Changes made less than 24 hours before the appointment will result in forfeiting the scheduled time.
+You can modify or cancel your booking via the calendar invitation as long as it’s done at least 24 hours in advance. Changes made less than 24 hours before the appointment will result in forfeiting the scheduled time.
 
 If there are any specific issues or concerns, please email paula.blomquist@appliedepi.org. 
 
